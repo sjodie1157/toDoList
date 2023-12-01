@@ -1,0 +1,43 @@
+.container {
+    background-color: black;
+    padding: 2em;
+    border-radius: 1pc;
+    width: fit-content;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: white;
+}
+
+.todoList {
+    display: flex;
+}
+
+.todoList p {
+    margin: .3em 2em;
+}
+.todoList button {
+    margin: .3em 2em;
+}
+
+.in {
+    color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 1pc;
+}
+
+p {
+    color: white;
+}
